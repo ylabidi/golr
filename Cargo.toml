@@ -1,0 +1,7 @@
+[package]
+name = "golr"
+version = "0.1.0"
+authors = ["Yassine Labidi <yassine.labidi@gmail.com>"]
+
+[dependencies]
+rand = "0.5"
